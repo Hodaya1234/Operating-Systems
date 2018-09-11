@@ -1,0 +1,3 @@
+/home/h/CLionProjects/ex32/example/students
+/home/h/CLionProjects/ex32/example/input.txt
+/home/h/CLionProjects/ex32/example/correctOutput.txt

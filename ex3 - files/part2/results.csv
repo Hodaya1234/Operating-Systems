@@ -1,0 +1,15 @@
+TIMEOUT3 gets 0,0,TIMEOUT
+compilation error2  gets 0,0,COMPILATION_ERROR
+NO C FILE gets 0,0,NO_C_FILE
+Great Job3 100,100,GREAT_JOB
+Great Job5 100,100,GREAT_JOB
+Great Job2 100,100,GREAT_JOB
+Compilation Error gets 0,0,COMPILATION_ERROR
+no files gets 0,0,NO_C_FILE
+bad output 1 gets 0,60,BAD_OUTPUT
+_C file more dirs get 100,100,GREAT_JOB
+similar output gets 80,80,SIMILAR_OUTPUT
+bad output 2 gets 0,60,BAD_OUTPUT
+_C file and more dirs get 100,100,GREAT_JOB
+_no c file only files gets 0,0,NO_C_FILE
+TIMEOUT gets 0,0,TIMEOUT
